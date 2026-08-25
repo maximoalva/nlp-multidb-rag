@@ -1,7 +1,7 @@
 # Multi-Database RAG System & Intent Router
 
 > Procesamiento del Lenguaje Natural  
-> Tecnicatura Universitaria en Inteligencia Artificial (UNR)  
+> Tecnicatura Universitaria en Inteligencia Artificial (Universidad Nacional de Rosario)  
 > Máximo Alva  
 > 2026  
 

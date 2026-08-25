@@ -1,6 +1,6 @@
 # Multi-Database RAG System & Intent Router
 
-> Trabajo práctico final - Procesamiento del Lenguaje Natural  
+> Procesamiento del Lenguaje Natural  
 > Tecnicatura Universitaria en Inteligencia Artificial (UNR)  
 > Máximo Alva  
 > 2026  
